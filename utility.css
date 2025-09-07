@@ -1,0 +1,85 @@
+.flex{
+    display: flex;
+}
+
+.justify-content{
+    justify-content: center;
+}
+
+.align-item{
+    align-items: center;
+}
+
+.border{
+    border: 2px solid red;
+    margin: 3px;
+}
+.bg-black{
+    background-color: black;
+    color: white;
+}
+.bg-grey{
+    background-color: rgb(28, 27, 27);
+    color: white;
+}
+
+.bg-li-grey{
+    background-color:  rgb(46, 45, 45);
+}
+
+.invert{
+    filter: invert(1);
+}
+.rounded{
+    border-radius: 7px;
+}
+
+.m-2{
+    margin: 5px;
+}
+
+.p-1{
+    padding: 10px;
+}
+
+.fl{
+    display: flex;
+    flex-direction: column;
+}
+
+.g{
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.songlist::-webkit-scrollbar {
+  display: none;             /* Chrome, Safari, and Edge */
+}
+.stylefooter a:hover {
+  font-weight: bold;
+  color: rgb(0, 34, 255);
+}
+
+.stylebutton:hover {
+  font-weight: bold;
+  background-color: rgb(141, 153, 153);
+}
+
+.footer a:hover {
+  font-weight: bold;
+  color: rgb(0, 34, 255);
+}
+
+.language:hover {
+  background-color: rgb(141, 153, 153);
+}
+
+
